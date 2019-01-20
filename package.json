@@ -1,0 +1,14 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hsynakgul/light-icons"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "version": "1.0.0",
+  "name": "light-icons",
+  "main": "index.js",
+  "module": "index.es.js",
+  "jsnext:main": "index.es.js"
+}
