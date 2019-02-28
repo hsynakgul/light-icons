@@ -6,7 +6,7 @@
   "engines": {
     "node": ">=6"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "light-icons",
   "main": "index.js",
   "module": "index.es.js",
