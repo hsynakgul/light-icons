@@ -10351,4 +10351,5 @@
   exports.faYenSign = faYenSign;
   exports.faYinYang = faYinYang;
 
+    Object.defineProperty(exports, '__esModule', { value: true });
 })));
